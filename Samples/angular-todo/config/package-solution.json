@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angular-todo-client-side-solution",
+    "id": "38d5f65c-9983-4de9-b0de-dd83708a9110",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "angular-todo description"
+      },
+      "longDescription": {
+        "default": "angular-todo description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "angular-todo Feature",
+        "description": "The feature that activates elements of the angular-todo solution.",
+        "id": "f8c6ea4e-0e9e-4558-8b2a-3333e0cc1c80",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-todo.sppkg"
+  }
+}
