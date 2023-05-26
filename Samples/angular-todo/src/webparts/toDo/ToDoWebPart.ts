@@ -18,7 +18,6 @@ export default class ToDoWebPart extends BaseClientSideWebPart<IToDoWebPartProps
 
   private _isDarkTheme: boolean = false;
   private _environmentMessage: string = '';
-
   public render(): void {
     this.domElement.innerHTML = `
     <section class="${styles.toDo} ${!!this.context.sdks.microsoftTeams ? styles.teams : ''}">
