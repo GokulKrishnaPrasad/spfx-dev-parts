@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.21.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "js-display-list-gokool",
+    "libraryId": "9afa13da-8b4b-40dd-a6f0-b34fd8b7483f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "js-display-List-gokool",
+    "solutionShortDescription": "js-display-List-gokool description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

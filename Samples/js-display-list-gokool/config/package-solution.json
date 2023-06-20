@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "js-display-list-gokool-client-side-solution",
+    "id": "9afa13da-8b4b-40dd-a6f0-b34fd8b7483f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "js-display-List-gokool description"
+      },
+      "longDescription": {
+        "default": "js-display-List-gokool description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "js-display-list-gokool Feature",
+        "description": "The feature that activates elements of the js-display-list-gokool solution.",
+        "id": "912c95a0-aa35-45a5-b2c0-ca4080e9a336",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/js-display-list-gokool.sppkg"
+  }
+}
